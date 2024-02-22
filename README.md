@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rohitraj-put.github.io/Personal-Portfolio/](https://rohitraj-put.github.io/Personal-Portfolio/)
 
-- 💬 Ask me about **React.js javascript**
+- 💬 Ask me about **React.js, javascript**
 
 - 📫 How to reach me **rohitraj05072000@gmail.com**
 
