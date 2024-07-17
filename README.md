@@ -5,7 +5,7 @@
 
 - 🌱 I have fine knowledge of **HTML, CSS ,JavaScript ,React.js,Bootstrap, TailwindCSS, AntD, Material UI,Github**
 
-- 👨‍💻 All of my projects are available at [https://rohitraj-put.github.io/Personal-Portfolio/](https://rohitraj-put.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rohitraj-put.github.io/Personal-Portfolio/]([https://rohitraj-put.github.io/Personal-Portfolio/](https://rohitrajputweb.netlify.app/))
 
 - 💬 Ask me about **React.js, javascript**
 
