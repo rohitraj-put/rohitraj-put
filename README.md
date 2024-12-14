@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitraj-put&label=Profile%20views&color=0e75b6&style=flat" alt="rohitraj-put" /> </p>
 
-- 🌱 I have fine knowledge of **HTML, CSS ,JavaScript ,React.js,Bootstrap, TailwindCSS, AntD, Material UI,Github**
+- 🌱 I have fine knowledge of **HTML, CSS ,JavaScript ,React.js,Firebase,ShadCN,Bootstrap, TailwindCSS, AntD, Material UI,Github**
 
 - 👨‍💻 All of my projects are available at (https://rohitrajputweb.netlify.app/)
 
